@@ -36,8 +36,8 @@ Proyek ini dirancang untuk dijalankan di lingkungan *web server* lokal (XAMPP/MA
 2.  Clone repositori ini atau unduh filenya.
 3.  Pindahkan folder repositori (misalnya `db_donasi`) ke direktori `htdocs` XAMPP Anda.
 4.  Buka **phpMyAdmin** dan buat database baru dengan nama **`db_donasi`**.
-5.  Impor *query* SQL skema database. Anda dapat menggunakan *query* lengkap yang terdapat pada lampiran file **`db_donasi.sql`** (Asumsikan file ini tersedia) untuk membuat semua tabel dan relasi.
-6.  Akses aplikasi melalui *browser*: `http://localhost/db_donasi/` (ganti `db_donasi` jika nama folder berbeda).
+5.  Impor *query* SQL skema database. Anda dapat menggunakan *query* lengkap yang terdapat pada lampiran file **`db_donasi.sql`** untuk membuat semua tabel dan relasi.
+7.  Akses aplikasi melalui *browser*: `http://localhost/db_donasi/` (ganti `db_donasi` jika nama folder berbeda).
 
 ### Akses Admin Panel:
 
