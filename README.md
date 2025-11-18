@@ -52,4 +52,3 @@ Proyek ini dirancang untuk dijalankan di lingkungan *web server* lokal (XAMPP/MA
 3.  **Buat Kampanye:** Masuk ke **Kelola Kampanye** dan buat kampanye baru dengan mengunggah foto, menentukan target dana, dan memilih kategori yang baru Anda buat.
 4.  **Uji Donasi:** Buka halaman utama (`index.php`) dan coba berdonasi melalui kampanye yang baru Anda buat.
 5.  **Verifikasi:** Cek menu **Laporan Donasi** untuk memverifikasi dan mengubah status donasi yang masuk.
-6.  
